@@ -1,0 +1,17 @@
+C:\Users\aluno\source\repos\exForm1\exForm1\bin\Debug\net6.0-windows\exForm1.exe
+C:\Users\aluno\source\repos\exForm1\exForm1\bin\Debug\net6.0-windows\exForm1.deps.json
+C:\Users\aluno\source\repos\exForm1\exForm1\bin\Debug\net6.0-windows\exForm1.runtimeconfig.json
+C:\Users\aluno\source\repos\exForm1\exForm1\bin\Debug\net6.0-windows\exForm1.dll
+C:\Users\aluno\source\repos\exForm1\exForm1\bin\Debug\net6.0-windows\ref\exForm1.dll
+C:\Users\aluno\source\repos\exForm1\exForm1\bin\Debug\net6.0-windows\exForm1.pdb
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.Form1.resources
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.AssemblyInfo.cs
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.dll
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\ref\exForm1.dll
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.pdb
+C:\Users\aluno\source\repos\exForm1\exForm1\obj\Debug\net6.0-windows\exForm1.genruntimeconfig.cache
